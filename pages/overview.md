@@ -9,9 +9,23 @@ I am a computer science student with experience in app and web development. I ha
 
 **Software Developer** @ [Ontario Power Generation](https://www.opg.com/) _(Jan 2024 - Aug 2024)_
 
-- Developed Power BI dashboards to automate weekly reports allowing an increase in productivity by 40%
-- Created a Python script to automate calculation leading to an increase in efficiency for creating monthly reports by 50%
-- _**Technologies used:**_ Power BI, Python
+- Directed a team of software engineering interns to develop an internal safety event tracking website using React,
+JavaScript, HTML, CSS, and SQL; improved event management for upper management across all Ontario Power
+Generation sites by 60%
+
+- Developed and launched an interactive website displaying trending data through AI-driven visualizations, using
+Python (Streamlit, Plotly) and SQL; improved predictive analytics and data visibility by 45%
+
+- Developed a sign printing website for the Darlington Nuclear Reactor using React, JavaScript, HTML, CSS,
+and SQL, enabling approximately 2000 employees to print warning/caution signs efficiently, significantly reducing manual
+effort and time
+
+- Spearheaded the automation of Safety Learning’s creation following incidents using Power BI, Power Apps,
+Python, SQL, and DAX to streamline the safety reporting process, improving accuracy and timeliness of reports, resulting in a 45% increase in productivity
+
+- Automated bi-weekly meetings using Power BI, Python, and SQLto streamline data aggregation and
+visualization, resulting in an 80% increase in supervisor efficiency
+- _**Technologies used:**_ HTML, CSS, Javascript, Python, SQL, React, Power BI, Power Apps
 
 **Screener** @ [Trillium Health Partners](https://www.thp.ca/Pages/Home.aspx) _(Feb 2022 - Present)_
 
